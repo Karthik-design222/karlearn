@@ -5,6 +5,7 @@ Welcome to Telusko Kitchen.
 Chapati
 idli
 dose
+Vada
 Poori
 Upittu
 
